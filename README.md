@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Will use Google Firebase for hosting
 
+## Live Demo
+- Try it here: https://wordcraft-7d912.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
